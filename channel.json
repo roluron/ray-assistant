@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "version": "0.1.0",
+    "url": "https://github.com/roluron/ray-assistant/releases/download/v0.1.0/Ray.resources.zip",
+    "sha256": "f1560c69b810fe69e6509b5fd20bc02e9e43facda849b8e256f418a61c45f8ad",
+    "bytes": 399886503,
+    "format": "ray-resources-zip-v1"
+  },
+  "signature": "xwtkCXe1uwru2GdAv9TaGYE2iZKBDk2sEZBvGGbMXrJk7oOnPJR908VyVpF6CeYWUPP5nEgxoliNyMIz7/kZAg=="
+}
