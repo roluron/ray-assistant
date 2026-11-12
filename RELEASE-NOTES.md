@@ -1,3 +1,5 @@
+**Known distribution issue:** macOS may report this installer as damaged. Apple distribution signing and notarization are incomplete. Do not bypass the damaged-app warning. A corrected build is under preparation.
+
 English personal-assistant setup for Apple Silicon Macs, styled after Aplaud's Pixel OS.
 
 - Native installer and Dock launcher.

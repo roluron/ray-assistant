@@ -1,5 +1,7 @@
 # Ray installer releases
 
+**Distribution issue under repair:** macOS may report the current installer as damaged. The release is not Apple-notarized. Do not bypass a damaged-app warning. A corrected distribution build is pending proper signing and validation.
+
 Mac installer downloads for Ray, a personal assistant for Apple Silicon.
 
 Download the current installer from [Releases](https://github.com/roluron/ray-assistant/releases). Unzip it, open **Install Ray.app**, and follow the setup steps.
